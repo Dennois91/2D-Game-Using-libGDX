@@ -1,0 +1,95 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/development/lib-GDX/assets/worldMap3.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/development/lib-GDX/assets/worldMap.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 824.2424242424242,
+                "y": 706.060606060606
+            }
+        },
+        "C:/development/lib-GDX/assets/worldMap3.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1526,
+                "y": 2092
+            }
+        },
+        "MapTiles/Outdoor.tsx": {
+            "scaleInDock": 1
+        },
+        "MapTiles/community-made-srpg-tileset-32x32/Outdoor.png": {
+            "scaleInDock": 1
+        },
+        "Outdoor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "community-made-srpg-tileset-32x32/Outdoor.png": {
+            "scaleInDock": 1
+        },
+        "desert-ornaments.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "indoor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mountains1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mountains2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "worldMap.tmx": {
+            "scale": 0.439375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 801.1379800853484,
+                "y": 1422.475106685633
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/development/lib-GDX/assets",
+    "last.imagePath": "C:/development/Tiled/community-made-srpg-tileset-32x32",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "C:/development/lib-GDX/assets/worldMap3.tmx",
+        "Outdoor.tsx",
+        "mountains2.tsx",
+        "mountains1.tsx",
+        "indoor.tsx",
+        "desert-ornaments.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "C:/development/lib-GDX/assets/worldMap.tmx",
+        "worldMap.tmx",
+        "desert-ornaments.tsx",
+        "indoor.tsx",
+        "mountains1.tsx",
+        "mountains2.tsx",
+        "Outdoor.tsx",
+        "C:/development/lib-GDX/assets/worldMap3.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.transparentColor": "#60792a",
+    "tileset.useTransparentColor": true
+}
